@@ -1,0 +1,1 @@
+# Filmweb ratings extension
